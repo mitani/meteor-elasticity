@@ -2,10 +2,10 @@
 /* global Npm     : true */
 
 Package.describe({
-	'name'    : 'nothingisdead:elasticity',
+	'name'    : 'mitani:elasticity',
 	'summary' : 'A customizable Elastic Search client with Blaze Components',
 	"version" : "1.0.0",
-	"git"     : "https://github.com/nothingisdead/meteor-elasticity.git"
+	"git"     : "https://github.com/mitani/meteor-elasticity.git"
 });
 
 Npm.depends({
